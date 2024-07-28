@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 import Chat from './components/Chat/Chat';
 import Join from './components/Join/Join';
